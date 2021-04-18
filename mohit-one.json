@@ -1,0 +1,183 @@
+{
+    "config": {},
+    "about": {
+        "label": "About Me",
+        "avatar": "https://www.gravatar.com/avatar/3409360cd08c8f6b4535b5c9cbeb2770.jpg?s=480",
+        "signature": "https://res.cloudinary.com/myassets/image/upload/v1596380130/mohit.one/sign.svg",
+        "fullName": "Mohit Gupta",
+        "shortName": "Mohit G",
+        "highlights": "Programmer",
+        "birthDate": "May 23",
+        "email": "reach@mohit.one",
+        "brief": "A lad capable to turn caffeine into codes.",
+        "description": "A Software Developer specializing in full-stack development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including JavaScript and it's libraries and frameworks, MySQL, and PHP with a strong background in servers and customer relations.",
+        "gmap": {
+            "lat": "29.9713685",
+            "long": "76.8748608",
+            "zoom": "14"
+        }
+    },
+
+    "social": {
+        "github": "https://github.com/webcdn",
+        "twitter": "https://twitter.com/vulrun",
+        "linkedin": "https://in.linkedin.com/in/vulrun",
+        "facebook": "https://facebook.com/vulrun",
+        "dribbble": "https://dribbble.com/anonymooous",
+        "stackoverflow": "https://stackoverflow.com/users/5642197/"
+    },
+
+    "languages": {
+        "label": "Languages",
+        "items": [
+            {
+                "title": "English",
+                "amount": "85",
+                "level": "Proficient"
+            },
+            {
+                "title": "Hindi",
+                "amount": "100",
+                "level": "Native"
+            }
+        ]
+    },
+    "skills": {
+        "label": "Skill Stack",
+        "items": [
+            {
+                "title": "NodeJS",
+                "amount": "85"
+            },
+            {
+                "title": "ReactJS",
+                "amount": "67"
+            },
+            {
+                "title": "HTML / HTML5",
+                "amount": "99"
+            },
+            {
+                "title": "CSS / CSS3",
+                "amount": "98"
+            },
+            {
+                "title": "Javascript",
+                "amount": "97"
+            },
+            {
+                "title": "jQuery",
+                "amount": "96"
+            },
+            {
+                "title": "PHP",
+                "amount": "94"
+            },
+            {
+                "title": "MySQL",
+                "amount": "82"
+            },
+            {
+                "title": "Wordpress",
+                "amount": "88"
+            },
+            {
+                "title": "Python",
+                "amount": "18"
+            }
+        ]
+    },
+    "education": {
+        "label": "Scholastic",
+        "items": [
+            {
+                "course": "Bachelor of Technology",
+                "academy": "Kurukshetra University",
+                "duration": "2013 - 2016",
+                "description": "Being Electronic & Communication Engineer, I gained vast amount of knowledge even in software and IT industry as well."
+            },
+            {
+                "course": "Diploma",
+                "academy": "Haryana State Board of Technical Education",
+                "duration": "2010 - 2013",
+                "description": "During this time frame, I have learned basic concepts in better practical way. It gave me wide array of opportunity to work on lot of things."
+            },
+            {
+                "course": "Schooling",
+                "academy": "Central Board of Secondary Education",
+                "duration": "Passed in 2010",
+                "description": "It was a place where I spent my childhood with new mates while gaining broaden knowledge in last decades."
+            }
+        ]
+    },
+    "experience": {
+        "label": "Livelihood",
+        "items": [
+            {
+                "title": "Software Developer",
+                "place": "Apptunix - Mobile App Development Company",
+                "location": "Chandigarh, India",
+                "duration": "May'20 - Now",
+                "description": ""
+            },
+            {
+                "title": "Full Stack Developer",
+                "place": "RV Technologies Soft. Pvt. Ltd.",
+                "location": "Chandigarh, India",
+                "duration": "Dec'16 - Feb'20",
+                "description": "Working as full stack developer capable to develop websites and web applications on the front end, and working with servers and databases on the back end."
+            },
+            {
+                "title": "Stack Programmer",
+                "place": "One Self",
+                "location": "This Planet",
+                "duration": "July'16 - Dec'16",
+                "description": "At this stage, I was trying to fill-up my programming stack."
+            }
+        ]
+    },
+    "portfolio": {
+        "label": "Latest Works",
+        "hastags": "js,node.js,react.js,mongodb,php,mysql",
+        "items": [
+            {
+                "tags": "#php #filesystem #server #c-panel",
+                "label": "File Explorer",
+                "brief": "A File Manager with stunning design & astonishing develops, beautifully written in PHP, everything fused in a single file.",
+                "image": "https://res.cloudinary.com/myassets/image/upload/c_fill,w_480,h_320/v1580361621/mohit.one/portfolio/File_Explorer.jpg",
+                "link": "https://github.com/webcdn/File-Explorer"
+            },
+            {
+                "tags": "#js #jquery #chrome #extension, #es6",
+                "label": "Live Score Bar",
+                "brief": "Get Live Cricket scores of today's matches updated on real-time. A totally new experience scoreboard as seen on TV broadcasts.",
+                "image": "https://res.cloudinary.com/myassets/image/upload/c_fill,w_480,h_320/v1580361621/mohit.one/portfolio/Live_Score_Bar.jpg",
+                "link": "https://chrome.google.com/webstore/detail/live-cricket-score-bar/gnpcccdfbmbpdhheipohfipmmkpfclek/"
+            },
+            {
+                "tags": "#js #react.js #es6",
+                "label": "Handy Web Tools",
+                "brief": "A box with a set of web tools for easiness programming.",
+                "image": "https://res.cloudinary.com/myassets/image/upload/c_fill,w_480,h_320/v1596379818/mohit.one/portfolio/HandyTools.jpg",
+                "link": "https://chrome.google.com/webstore/detail/live-cricket-score-bar/gnpcccdfbmbpdhheipohfipmmkpfclek/"
+            },
+            {
+                "tags": "#js #node.js #mongodb",
+                "label": "Sparker App",
+                "brief": "A box with a set of web tools for easiness programming.",
+                "image": "https://lh3.googleusercontent.com/MmM0khBT8PE7FctNiUc8AuOr2Wa4Me4FSbIfy62VLqUJjsdqoCU3yMY8h-Oz4N1wS8cENJIZ9Q",
+                "link": "https://chrome.google.com/webstore/detail/live-cricket-score-bar/gnpcccdfbmbpdhheipohfipmmkpfclek/"
+            }
+        ]
+    },
+
+    "hobbies": {
+        "label": "I love to do...",
+        "items": []
+    },
+
+    "reference": {
+        "label": "It's all about me...",
+        "items": []
+    }
+}
