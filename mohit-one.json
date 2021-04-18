@@ -1,16 +1,21 @@
 {
-    "config": {},
+    "config": {
+        "justSmtp": {
+            "emailTo": "reach@mohit.one",
+            "authorization": "Bearer Fe7R2XCdbxvDB5MKeGEk5y_y_5bNSCNS8teivmGedqdyfwrqhn8htrd-J7Q550FQ2xulbjxrTQQpltpEqOSwobG7tJ5ypxi14tSXdLVo-ySf_BdZvwimQ49MaUeCB6XvlVRYpgb0_J9jsVeMSa-30wzCZRRYPmPrOVU0bmGOVPOIv6NZ45PEdR6id8jQXjPO3fQsEtwNLW6hWallyPg4BeR98wSiaFUsKzAacjPzOKg29sRnk4Fb5g4W07t4dDo1u0W9BXgvvjHvxVy9tIEPFsIMcVUrgwz-lQ9yD9tbPcXsqNOYIr3PbmU3Ql0LVE4LGfV_Kg"
+        }
+    },
     "about": {
         "label": "About Me",
         "avatar": "https://www.gravatar.com/avatar/3409360cd08c8f6b4535b5c9cbeb2770.jpg?s=480",
-        "signature": "https://res.cloudinary.com/myassets/image/upload/v1596380130/mohit.one/sign.svg",
+        "signature": "/files/sign.svg",
         "fullName": "Mohit Gupta",
         "shortName": "Mohit G",
         "highlights": "Programmer",
         "birthDate": "May 23",
         "email": "reach@mohit.one",
         "brief": "A lad capable to turn caffeine into codes.",
-        "description": "A Software Developer specializing in full-stack development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including JavaScript and it's libraries and frameworks, MySQL, and PHP with a strong background in servers and customer relations.",
+        "description": "A Software Developer specializing in full-stack development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including JavaScript and it's libraries and frameworks, MySQL, and P  HP with a strong background in servers and customer relations.",
         "gmap": {
             "lat": "29.9713685",
             "long": "76.8748608",
@@ -144,29 +149,29 @@
                 "tags": "#php #filesystem #server #c-panel",
                 "label": "File Explorer",
                 "brief": "A File Manager with stunning design & astonishing develops, beautifully written in PHP, everything fused in a single file.",
-                "image": "https://res.cloudinary.com/myassets/image/upload/c_fill,w_480,h_320/v1580361621/mohit.one/portfolio/File_Explorer.jpg",
+                "image": "/files/portfolio/File_Explorer.jpg",
                 "link": "https://github.com/webcdn/File-Explorer"
             },
             {
                 "tags": "#js #jquery #chrome #extension, #es6",
                 "label": "Live Score Bar",
                 "brief": "Get Live Cricket scores of today's matches updated on real-time. A totally new experience scoreboard as seen on TV broadcasts.",
-                "image": "https://res.cloudinary.com/myassets/image/upload/c_fill,w_480,h_320/v1580361621/mohit.one/portfolio/Live_Score_Bar.jpg",
+                "image": "/files/portfolio/Live_Score_Bar.jpg",
                 "link": "https://chrome.google.com/webstore/detail/live-cricket-score-bar/gnpcccdfbmbpdhheipohfipmmkpfclek/"
             },
             {
                 "tags": "#js #react.js #es6",
                 "label": "Handy Web Tools",
                 "brief": "A box with a set of web tools for easiness programming.",
-                "image": "https://res.cloudinary.com/myassets/image/upload/c_fill,w_480,h_320/v1596379818/mohit.one/portfolio/HandyTools.jpg",
-                "link": "https://chrome.google.com/webstore/detail/live-cricket-score-bar/gnpcccdfbmbpdhheipohfipmmkpfclek/"
+                "image": "/files/portfolio/HandyTools.jpg",
+                "link": "https://handytools.web.app"
             },
             {
                 "tags": "#js #node.js #mongodb",
                 "label": "Sparker App",
                 "brief": "A box with a set of web tools for easiness programming.",
-                "image": "https://lh3.googleusercontent.com/MmM0khBT8PE7FctNiUc8AuOr2Wa4Me4FSbIfy62VLqUJjsdqoCU3yMY8h-Oz4N1wS8cENJIZ9Q",
-                "link": "https://chrome.google.com/webstore/detail/live-cricket-score-bar/gnpcccdfbmbpdhheipohfipmmkpfclek/"
+                "image": "/files/portfolio/Sparker_App.jpg",
+                "link": "https://meetsparker.com"
             }
         ]
     },
