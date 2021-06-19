@@ -25,10 +25,10 @@
 
     "social": {
         "github": "https://github.com/webcdn",
-        "twitter": "https://twitter.com/vulrun",
+        "_twitter": "https://twitter.com/vulrun",
         "linkedin": "https://in.linkedin.com/in/vulrun",
-        "facebook": "https://facebook.com/vulrun",
-        "dribbble": "https://dribbble.com/anonymooous",
+        "_facebook": "https://facebook.com/vulrun",
+        "_dribbble": "https://dribbble.com/anonymooous",
         "stackoverflow": "https://stackoverflow.com/users/5642197/"
     },
 
@@ -56,15 +56,15 @@
             },
             {
                 "title": "ReactJS",
-                "amount": "67"
+                "amount": "40"
             },
             {
                 "title": "HTML / HTML5",
-                "amount": "99"
+                "amount": "95"
             },
             {
                 "title": "CSS / CSS3",
-                "amount": "98"
+                "amount": "96"
             },
             {
                 "title": "Javascript",
@@ -76,11 +76,11 @@
             },
             {
                 "title": "PHP",
-                "amount": "94"
+                "amount": "90"
             },
             {
                 "title": "MySQL",
-                "amount": "82"
+                "amount": "65"
             },
             {
                 "title": "Wordpress",
@@ -123,7 +123,7 @@
                 "place": "Apptunix - Mobile App Development Company",
                 "location": "Chandigarh, India",
                 "duration": "May'20 - Now",
-                "description": ""
+                "description": "- Integrated payment gateways like Stripe, Paypal, Mastercard Checkout, Google Pay, Apple Pay, responsible for single transactions & monthly subscriptions on various projects\n- Delivered many projects some context of them is written below\n\t* Food Grocery Delivery Application\n\t* Events Invites & Bookings Application\n\t* Personal Service Bookings\n\t* Blind Dating Application\n\t* IoT based Bike Rental Application"
             },
             {
                 "title": "Full Stack Developer",
