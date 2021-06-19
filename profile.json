@@ -25,10 +25,10 @@
 
     "social": {
         "github": "https://github.com/webcdn",
-        "_twitter": "https://twitter.com/vulrun",
+        "twitter": "https://twitter.com/vulrun",
         "linkedin": "https://in.linkedin.com/in/vulrun",
-        "_facebook": "https://facebook.com/vulrun",
-        "_dribbble": "https://dribbble.com/anonymooous",
+        "facebook": "https://facebook.com/vulrun",
+        "dribbble": "https://dribbble.com/anonymooous",
         "stackoverflow": "https://stackoverflow.com/users/5642197/"
     },
 
@@ -119,11 +119,11 @@
         "label": "Livelihood",
         "items": [
             {
-                "title": "Software Developer",
+                "title": "Backend Developer",
                 "place": "Apptunix - Mobile App Development Company",
                 "location": "Chandigarh, India",
                 "duration": "May'20 - Now",
-                "description": "- Integrated payment gateways like Stripe, Paypal, Mastercard Checkout, Google Pay, Apple Pay, responsible for single transactions & monthly subscriptions on various projects\n- Delivered many projects some context of them is written below\n\t* Food Grocery Delivery Application\n\t* Events Invites & Bookings Application\n\t* Personal Service Bookings\n\t* Blind Dating Application\n\t* IoT based Bike Rental Application"
+                "description": "Integrated payment gateways like Stripe, Paypal, Mastercard Checkout, Google Pay, Apple Pay, responsible for single transactions & monthly subscriptions on various projects. Delivered many projects some context of them are\n\t* Food Grocery Delivery Application\n\t* Events Invites & Bookings Application\n\t* Personal Service Bookings\n\t* Blind Dating Application\n\t* IoT based Bike Rental Application"
             },
             {
                 "title": "Full Stack Developer",
